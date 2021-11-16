@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.exe
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.deps.json
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.dll
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\bin\Debug\netcoreapp3.1\FruitAndVeggies.pdb
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.dll
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.pdb
+C:\Users\opilane\source\repos\TITpe21\TaskFile\FruitAndVeggies\obj\Debug\netcoreapp3.1\FruitAndVeggies.genruntimeconfig.cache
